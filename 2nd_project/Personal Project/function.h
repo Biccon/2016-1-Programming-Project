@@ -189,7 +189,7 @@ Node * insert_node(LinkedList *lists, char *data){
          latest_added_node = lists + index또는 the others에 있는 입력받은 data로 찾은 노드
          */
     } else {
-        // 5개가 아니면 최종 등록된 노드는 처음에 등록했던 노드이다.
+        // 추가한 후의 개수가 5개보다 크지 않으면 최종 등록된 노드는 처음에 등록했던 노드이다.
         latest_added_node = first_added_node;
     }
     return latest_added_node;
