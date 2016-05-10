@@ -115,7 +115,7 @@ void init_list(LinkedList *lists){
     }
 }
 void set_list(LinkedList *lists){
-    FILE *fp = fopen("sample.txt", "rw");
+    FILE *fp = fopen("voc_sample.txt", "rw");
     if(fp == NULL){
         printf("File Loading Failed");
         exit(1);
