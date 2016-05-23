@@ -5,5 +5,6 @@
 
 <#1> wordCounter
 
-구현중인 개인 프로젝트 : None
+<#2> voca
 
+구현중인 개인 프로젝트 : None
