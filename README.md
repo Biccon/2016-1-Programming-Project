@@ -1,12 +1,11 @@
-# Programming-Project
-프로그래밍 프로젝트 - 개인 프로젝트
+# Programming Project
+###프로그래밍 프로젝트 개인 과제
+- 완료 한 개인프로젝트 목록
 
-현재 완료된 개인 프로젝트 :
+1. wordCounter.c
+2. voca.c
+3. myDic.c
 
-<#1> wordCounter
+- 구현중인 프로젝트
 
-<#2> voca
-
-<#3> myDic
-
-구현중인 개인 프로젝트 : None
+1. None
